@@ -1,0 +1,5 @@
+[2025-01-23T10:56:31.051103+00:00] name.WARNING: WarningTest [] []
+[2025-01-23T10:56:31.053094+00:00] name.ERROR: ErrorTest [] []
+[2025-01-23T10:57:13.277562+00:00] TP-Composer.WARNING: WarningTest [] []
+[2025-01-23T10:57:13.279482+00:00] TP-Composer.ERROR: ErrorTest [] []
+[2025-01-29T14:06:04.862383+00:00] TP-Composer.ERROR: Le message n'a pas pu être envoyer:  ["SMTP Error: Could not authenticate."] []
